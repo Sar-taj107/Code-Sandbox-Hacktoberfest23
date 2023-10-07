@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "17. Java Program",
+        "15. Dynamic Programing",
+        "12. Greedy",
+        "11. Graph",
+        "09. Matrix",
+        "07. Recursion",
+        "06. Searching",
+        "05. Sorting",
+        "04. Queue",
+        "03. Stack",
+        "02. String",
+        "01. Arrays",
+        "13. Backtracking"
+    ]
+}
