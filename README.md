@@ -3,7 +3,7 @@
 <h1>Welcome to Hacktober Fest 2023⚡️✨</h1>
 <p> All Contributors are requested to star this repo and follow me for a successful merge of pull request.🙂</p>
 <br/>
-<h3>👉 Add any project, algorithm or leetcode solution in any programming language..<br/>
+<h3>👉 Add any project, algorithm or DSA solution in any programming language..<br/>
 -🚀 C <br/>
 -🚀 C++ <br/>
 -🚀 C# <br/>
@@ -56,6 +56,18 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ 
 
+ ### FEATURES
+
+ 1. Beginner-friendly
+ 2. Targeted for developers, content writers, and programming enthusiasts.
+ 3. Would also help participants who are not familiar with development but are eager to participate in open source.
+
+ ## Contributors
+
+ <a href="https://github.com/Sar-taj107/Code-Sandbox-Hacktoberfest23/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=Sar-taj107/Code-Sandbox-Hacktoberfest23" />
+ </a>
+
 <h3>🛡 Rules</h3>
 <ul>
   <li> Add link of the problem as comments in the code if contributing solution of any problems from Leetcode, GeekForGeeks, Codechef or Codeforces, etc. No need to add entire main function.</li>
@@ -78,3 +90,13 @@ git push origin branch-name
 <tr><td align="center"><a href="https://github.com/Sar-taj107"><kbd><img src="https://avatars3.githubusercontent.com/Sar-taj107?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Md Tajuddin</b></sub></a><br /></td>
 
 </tr>
+
+```javascript
+
+  _____ _                 _     __   __
+ |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _
+   | | | '_ \ / _` | '_ \| |/ /  \ V / _ \| | | |
+   | | | | | | (_| | | | |   <    | | (_) | |_| |
+   |_| |_| |_|\__,_|_| |_|_|\_\   |_|\___/ \__,_|
+
+```
