@@ -43,7 +43,7 @@ git clone https://github.com/your-username/Code-Sandbox-Hacktoberfest23.git
 git checkout -b branch-name
 ```
 * Make your changes (choose from any task below) / Add one or more code or algo into the related folder.
-* secondly add your details in contributor list just create a file conatains your name, institiute/company , github_url  (the file name should be <your_username.md> ).
+* secondly add your details into the contributor list folder just create a file conatains your name, institiute/company , github_url  (the file name should be <your_username.md> ).
 * 
 ```markdown
 | Name             | Institution/Company                    | GitHub                                  |
