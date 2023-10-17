@@ -1,0 +1,29 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class FibonacciCalc {
+  static private Map < Integer, Integer > memoizeTable = new HashMap < > ();
+
+  static public int fibMemoize(int n) {
+    if (n == 0) {
+      return 0;
+    }
+    if (n == 1) {
+      return 1;
+    }
+
+    if (memoizeTable.containsKey(n)) {
+      return memoizeTable.get(n);
+    }
+
+    int result = fibMemoize(n - 1) + fibMemoize(n - 2);
+    memoizeTable.put(n, result);
+
+    return result;
+  }
+
+  public static void main(String[] args) {
+    System.out.println("Fibonacci value for n = 6 --> " +
+      fibMemoize(6));
+  }
+}
