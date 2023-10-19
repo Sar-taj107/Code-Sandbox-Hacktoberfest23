@@ -19,4 +19,8 @@ class Solution {
             }
         }return list;
     }
+
+    public boolean backspaceCompare(String s, String t) {
+        return false;
+    }
 }
