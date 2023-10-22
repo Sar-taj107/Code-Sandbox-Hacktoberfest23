@@ -56,9 +56,10 @@ public class GroupAnagram {
 Output:
 
 Enter the String array size:
-6                                                                                                         
+6
 Enter the string:
-eat tea tan ate nat bat                                                                                   
+eat tea tan ate nat bat
+Anagram group:
 [eat, tea, ate]
 [bat]
 [tan, nat]
