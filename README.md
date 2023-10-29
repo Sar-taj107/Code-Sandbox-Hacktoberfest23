@@ -69,7 +69,7 @@ git push origin branch-name
  2. Targeted for developers, content writers, and programming enthusiasts.
  3. Would also help participants who are not familiar with development but are eager to participate in open source.
 
- ## Contributors
+ ## Thanks to all Contributors💖
 
  <a href="https://github.com/Sar-taj107/Code-Sandbox-Hacktoberfest23/graphs/contributors">
    <img src="https://contrib.rocks/image?repo=Sar-taj107/Code-Sandbox-Hacktoberfest23" />
