@@ -1,5 +1,5 @@
 #include <stdio.h>
-int queue[100],dig,x;
+int queue[80],dig,x;
 int first = -1;
 int last = -1;
 int choice = 0;
@@ -14,14 +14,14 @@ void enque(int n)
 }
 void deque()
 {
-  printf("Element Deleted!!\n");
-  printf("Deleted Element Is: %d\n",queue[first]);
+  printf("The Element Deleted!!\n");
+  printf("The Deleted Element Is: %d\n",queue[first]);
   first++;
 }
 void location()
 {
-  printf("Location Of First Pointer Is: %d\n",first);
-  printf("Location Of Last Pointer Is: %d\n",last);
+  printf("The Location Of First Pointer Is: %d\n",first);
+  printf("The Location Of Last Pointer Is: %d\n",last);
 }
 void display()
 {
@@ -51,7 +51,7 @@ int main()
     {
       if (last == dig)
       {
-        printf("Queue Is Full.Insertion Not Possible\n");
+        printf("Queue Is Full.Hence,Insertion Not Possible\n");
       }
       else
       {
@@ -64,7 +64,7 @@ int main()
     {
       if (first == -1)
       {
-        printf("Queue Is Empty.Deletion Not Possible!!\n");
+        printf("Queue Is Empty.Hence,Deletion Not Possible!!\n");
       }
       else
       {
