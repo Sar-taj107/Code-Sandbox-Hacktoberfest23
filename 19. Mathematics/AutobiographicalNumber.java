@@ -1,7 +1,9 @@
 import java.util.*;
 /*
  
-An autobiographical number is a number N such that the first digit of N represents the count of zeroes in N, the second digit represents the count of ones in N, third digit represents the count of twos in N and so on. For example, 1210 is an autobiographical number because:
+An autobiographical number is a number N such that the first digit of N represents the 
+count of zeroes in N, the second digit represents the count of ones in N, third digit 
+represents the count of twos in N and so on. For example, 1210 is an autobiographical number because:
 
 Number = 1210
 Number of zeroes in 1210 = 1 = first digit of Number
