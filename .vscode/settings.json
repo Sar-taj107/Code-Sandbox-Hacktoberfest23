@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "Leetcode",
         "17. Java Program",
         "15. Dynamic Programing",
         "13. Backtracking",
@@ -13,6 +14,6 @@
         "03. Stack",
         "02. String",
         "01. Arrays",
-        "Leetcode"
+        "19. Mathematics"
     ]
 }
