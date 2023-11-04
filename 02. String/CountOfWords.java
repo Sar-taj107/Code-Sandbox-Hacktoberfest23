@@ -2,7 +2,7 @@
 find the number/count of words in a given string.
 
 input:
-given string  s="I Love my india"
+given string  s="I Love my india"     
 
 output:
 Number of word:4
@@ -28,6 +28,7 @@ public class CountOfWords {
 }
 
 /*
+
 Output:
 
 Enter the String:
