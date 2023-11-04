@@ -63,6 +63,8 @@ public class BinaryCalString {
 
 /*
 
+OUTPUT
+
 Enter the string:
 1C0C1C1A0B1
 result:1
