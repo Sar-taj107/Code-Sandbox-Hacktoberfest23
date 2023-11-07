@@ -104,5 +104,4 @@ fantasy : 3 consonants and 2 vowels
 
 2 easy words  are : life and ace 
 
-
- */
+*/
