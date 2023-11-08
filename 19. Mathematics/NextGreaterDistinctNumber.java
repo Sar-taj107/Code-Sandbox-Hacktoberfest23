@@ -1,8 +1,15 @@
-import java.util.*;
 /*
 Write a program to find the next greater distinct number of a given four digit number.
-number range  1000 <= n <= 9000.
+
+Input
+num (1000 ≤ num <= 9000); A 4-digit natural number 
+Output
+Return a single integer, the smallest 4-digit number that is greater than nus and has 
+distinct digits. For example, eg. the number 1234, the smallest 4-digit
+number greater than 1234 with distinct digits is 1235.
+
 */
+import java.util.*;
 public class NextGreaterDistinctNumber {
     public static void main(String[] args) {
         
