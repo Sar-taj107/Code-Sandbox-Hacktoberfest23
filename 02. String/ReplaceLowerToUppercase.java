@@ -39,6 +39,8 @@ public class ReplaceLowerToUppercase {
 
 /*
 
+Output:
+
 Enter the string:
 Hello World
 Output: hELLO wORLD
