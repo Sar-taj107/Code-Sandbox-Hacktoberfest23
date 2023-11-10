@@ -37,10 +37,10 @@ Output:
 
 Enter the sum of both dices: 
 6
-Total number of possibility: 5
+Total number of possibility: 5        //(1,5),(5,1)(3,3),(2,4),(4,2)
 
 Enter the sum of both dices: 
 12
-Total number of possibility: 1
+Total number of possibility: 1       //(6,6)
 
 */
