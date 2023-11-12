@@ -29,6 +29,7 @@ public class DistributeCandies {
 }
 
 /*
+
 Output:
 
 Enter the number of candies: 5
