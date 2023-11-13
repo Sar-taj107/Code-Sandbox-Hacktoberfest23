@@ -1,5 +1,6 @@
 # 2785. Sort Vowels in a String
 - leetcode link: https://leetcode.com/problems/sort-vowels-in-a-string/
+  
 Given a 0-indexed string s, permute s to get a new string t such that:
 
 All consonants remain in their original places. More formally, if there is an index i with ``` 0 <= i < s.length ``` such that s[i] is a consonant, then t[i] = s[i].
