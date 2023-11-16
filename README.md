@@ -1,7 +1,6 @@
 # Code-Sandbox-Hacktoberfest23
 ![Hacktoberfest Banner](hf10_banner.png)
 <h1>Welcome to Hacktober Fest 2023⚡️✨</h1>
-<p> All Contributors are requested to star this repo and follow me for a successful merge of pull request.🙂</p>
 <br/>
 <h3>👉 Add any project, algorithm or DSA solution in any programming language..<br/>
 -🚀 C <br/>
