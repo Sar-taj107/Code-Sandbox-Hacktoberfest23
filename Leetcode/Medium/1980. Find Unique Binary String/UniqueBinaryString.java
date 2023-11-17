@@ -28,7 +28,7 @@ public class UniqueBinaryString {
 	        }else{
 	            res += '0';
 	        }
-	       //res += str.charAt(i)=='0' ? '1' : '0';          //or use this only ternary operattoe
+	       //res += str.charAt(i)=='0' ? '1' : '0';          //or use this only ternary operator
 	    }
 	    return res;
     }
