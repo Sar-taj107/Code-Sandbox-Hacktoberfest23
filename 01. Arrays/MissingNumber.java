@@ -13,45 +13,50 @@ public class MissingNumber {
     public static void main(String[] args) {
         
         Scanner sc=new Scanner(System.in);
-		System.out.println("Enter the array size:");
+		System.out.print("Enter the value of n:");
 		int n=sc.nextInt();
-		int[] nums = new int[n];
+		int[] nums = new int[n-1];
 		System.out.println("Enter the element: ");
-		for(int i=0; i<n; i++){
+		for(int i=0; i<n-1; i++){
 		    nums[i]=sc.nextInt();
 		}
-		int ans=missingNum(nums);
-		System.out.println("Missing Number: "+ans);
-		
+		int ans=missingNum(nums,n);
+		System.out.println("Missing Number: "+ans);	
 	}
-	public static int missingNum(int[] nums){
-	    int n=nums.length;
-	    //int res=nums[0];
-	    int res=0;
-	    Arrays.sort(nums);
+	public static int missingNum(int[] nums, int n){
+	    // int n=nums.length;
+	    // int res=0;
+	    // Arrays.sort(nums);
 	    
-	    for(int i=0; i<n; i++){
-	        int j=i+1;
-	        if(nums[i] != j){
-	          res=j;  
-	          break;
-	        }
-	    }
-	    return res;
+	    // for(int i=0; i<n; i++){
+	    //     int j=i+1;
+	    //     if(nums[i] != j){
+	    //       res=j;  
+	    //       break;
+	    //     }                                
+	    // }
+	    // return res;
+//1.optimize solution
+			
+			int sum=((n) *(n+1))/ 2;
+			for(int i=0; i<n-1; i++){
+				sum -= nums[i];
+			}
+			return sum;
     }
 }
 
 /*
 Output:
 
-Enter the array size:5
-Enter the element: 
-3 2 5 4 6
-Missing Number: 1
+Enter the value of n:5
+Enter the element:
+3 5 1 4
+Missing Number: 2
 
-Enter the array size:7
-Enter the element: 
-2 4 1 6 3 7 8
+Enter the value of n:7
+Enter the element:
+4 2 6 1 7 3
 Missing Number: 5
 
 */
