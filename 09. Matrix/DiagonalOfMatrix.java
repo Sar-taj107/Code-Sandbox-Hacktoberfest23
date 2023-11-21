@@ -24,8 +24,8 @@ Input :
 Output :
 Principal Diagonal: 16
 Secondary Diagonal: 20
-import java.util.*;
 */
+import java.util.*;
 public class DiagonalOfMatrix {
     public static void main(String[] args) {
 
