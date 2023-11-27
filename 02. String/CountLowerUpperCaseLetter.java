@@ -8,7 +8,7 @@ import java.util.*;
 public class CountLowerUpperCaseLetter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the String:");
+        System.out.print("Enter the String: ");
         String s= sc.nextLine();
 
         String ans = converString(s);
@@ -58,5 +58,10 @@ Enter the String: HaPpy
 no of lowercase letter: 3
 no of uppercase letter: 2
 Required answer: happy
+
+Enter the String:AMan 
+no of lowercase letter: 2
+no of uppercase letter: 2
+Required answer: AMan
 
 */
