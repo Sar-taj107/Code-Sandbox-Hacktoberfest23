@@ -1,4 +1,7 @@
 /*
+leetcode : 1685
+link- https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
+
 Sum of Absolute Differences in a Sorted Array
 
 You are given an integer array nums sorted in non-decreasing order.
