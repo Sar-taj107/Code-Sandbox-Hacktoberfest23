@@ -8,7 +8,7 @@ import java.util.*;
 public class SumOfProductOfElement {
     public static void main(String[] args) {
         
-        Scanner sc = new Scanner(System.in);
+        	Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the array size:");
 		int n=sc.nextInt();
 		int[] arr1=new int[n];
