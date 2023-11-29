@@ -7,7 +7,7 @@ with second last element of arr2 and so on.. return the total sum of prodct if a
 import java.util.*;
 public class SumOfProductOfElement {
     public static void main(String[] args) {
-        
+
         Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the array size:");
 		int n=sc.nextInt();
@@ -27,21 +27,21 @@ public class SumOfProductOfElement {
 	}
 	public static int sumOfPro(int[]arr1, int[] arr2, int n){
 	    
-	    if(arr1.length==0 || arr2.length == 0){
+	    if(n == 0){
 	        return -1;
 	    }
 	    int prodSum=0;
-	   // for(int i=0; i<arr1.length; i++){
-	   //     for(int j=arr2.length-1; j>=0; j--){
-	   //         prodSum += arr1[i]*arr2[j];
-	   //     }
-	   // }
-	   int i=0, j=arr2.length-1;
-	   while(i<=arr1.length && j>=0){
-	       prodSum += arr1[i]*arr2[j];
-	       i++;
-	       j--;
-	   }
+//1. way
+	    for(int i=0; i<arr1.length; i++){
+	           prodSum += arr1[i]*arr2[n-i-1];
+	    }
+//2. way
+	//    int i=0, j=arr2.length-1;
+	//    while(i<=arr1.length && j>=0){
+	//        prodSum += arr1[i]*arr2[j];
+	//        i++;
+	//        j--;
+	//    }
 	    return prodSum;
     }
 }
