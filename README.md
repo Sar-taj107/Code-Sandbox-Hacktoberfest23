@@ -13,7 +13,7 @@
 
 <br/>
 In each respective folder on any topic, don't forget to read the rules below to get your pull request accepted.</h3>
-<p>👷‍♂️ Contribute anything to this repo and earn rewards!</p>
+<p> Contribute anything to this repo and earn rewards!</p>
 <br/>
 <p>⚙️ Visit The Hacktoberfest website for more information <a href="https://hacktoberfest.com/">Hacktoberfest 2023</a>
 <br/>
