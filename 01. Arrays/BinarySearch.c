@@ -1,4 +1,4 @@
-// Bianry Search:
+// Bianry Search:  //
 
 #include<stdio.h>
 
