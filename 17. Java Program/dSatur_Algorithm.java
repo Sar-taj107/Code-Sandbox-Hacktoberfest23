@@ -1,13 +1,14 @@
 import java.util.*;
 
-/*The DSatur, or Saturation Degree, algorithm picks an uncolored vertex from a graph that has the biggest number of adjacent
- * vertices that each are colored differently -- meaning that the vertex with the highest saturation is chosen. If all the 
- * uncolored vertices in the graph have the same saturation degree, then the list is narrowed down to the vertex that has 
- * the highest degree, or the highest number of adjacencies. If the vertices have the same saturation degree and the same 
- * number of edges, then any one of those vertices are chosen to color. The colors are number and range from 1, 2, 3, ..., n-1,
- * where n is the total number of vertices. None of the vertices that are adjacent to each other can have the same color.
- * This process continues until all of the vertices are colored in. This algorithm addresses the graph coloring problem and
- * it finds the most efficient coloring scheme for bipartite graphs.
+/*
+  The DSatur, or Saturation Degree, algorithm picks an uncolored vertex from a graph that has the biggest number of adjacent
+  vertices that each are colored differently -- meaning that the vertex with the highest saturation is chosen. If all the 
+  uncolored vertices in the graph have the same saturation degree, then the list is narrowed down to the vertex that has 
+  the highest degree, or the highest number of adjacencies. If the vertices have the same saturation degree and the same 
+  number of edges, then any one of those vertices are chosen to color. The colors are number and range from 1, 2, 3, ..., n-1,
+  where n is the total number of vertices. None of the vertices that are adjacent to each other can have the same color.
+  This process continues until all of the vertices are colored in. This algorithm addresses the graph coloring problem and
+  it finds the most efficient coloring scheme for bipartite graphs.
 */
 class dSatur_Algorithm {    
 
