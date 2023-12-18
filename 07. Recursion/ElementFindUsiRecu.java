@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 public class ElementFindUsiRecu {
     public static void main(String[] args){
         Node head = new Node(3);

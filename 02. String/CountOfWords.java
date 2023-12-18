@@ -28,7 +28,6 @@ public class CountOfWords {
 }
 
 /*
-
 Output:
 
 Enter the String:

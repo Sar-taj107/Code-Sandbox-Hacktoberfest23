@@ -1,7 +1,6 @@
-// Bianry Search:
+// Bianry Search:  //
 
 #include<stdio.h>
-
 struct Array
 {
     int A[15];
@@ -41,7 +40,6 @@ int RBinarySearch(struct Array arr, int key, int l, int h)
     }
     return -1;
 }
-
 int main()
 {
     struct Array arr={{4,8,10,15,18,21,24,27,29,33,34,37,39,41,43},15,15};

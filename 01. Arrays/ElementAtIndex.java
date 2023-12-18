@@ -38,4 +38,5 @@ Enter the element:
 Enter the element to be Search:
 9 
 Element found at index:3
+
  */
