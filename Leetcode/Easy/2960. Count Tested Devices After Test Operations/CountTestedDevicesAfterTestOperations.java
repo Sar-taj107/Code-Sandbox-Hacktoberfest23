@@ -33,7 +33,7 @@ public class CountTestedDevicesAfterTestOperations {
 }
 
 /*
- 
+OUTPUT:
 Enter the array size:5
 Enter the element:1 1 2 1 3
 Number of device tested: 3
