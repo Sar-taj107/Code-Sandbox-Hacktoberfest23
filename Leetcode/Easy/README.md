@@ -1,11 +1,12 @@
 # Problems ![EASY](https://img.shields.io/badge/-EASY-40c040?style=for-the-badge&logo=LeetCode&logoColor=white)
 
 | **No.**  | **Problem**                                                                                                                     |
-| :------: | :------------------------------------------------------------------------------------------------------------------------------ |
+|:--------:|:--------------------------------------------------------------------------------------------------------------------------------|
 |  **1**   | [Two Sum](1.%20Two%20Sum/)                                                                                                      |
 |  **9**   | [Palindrome Number](9.%20Palindrome%20Number/)                                                                                  |
 |  **20**  | [Valid Parentheses](20.%20Valid%20Parentheses/)                                                                                 |
 |  **26**  | [Remove Duplicates from Sorted Array](26.%20Remove%20Duplicates%20from%20Sorted%20Array/)                                       |
+|  **88**  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                         |
 |  **94**  | [Binary Tree Inorder Traversal](94.%20Binary%20Tree%20Inorder%20Traversal/)                                                     |
 | **101**  | [Symmetric Tree](101.%20Symmetric%20Tree/)                                                                                      |
 | **104**  | [Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree/)                                                    |
