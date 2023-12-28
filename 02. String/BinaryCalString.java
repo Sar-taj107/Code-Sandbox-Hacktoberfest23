@@ -1,5 +1,4 @@
 
-//§ 
 /*
  Write a function CalculateBinaryOperations(str) that accepts 
 the string as an argument or parameter. The string should contain
