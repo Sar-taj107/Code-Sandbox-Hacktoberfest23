@@ -32,3 +32,23 @@ public class MinimumTimetoMakeRopeColorful {
         return minTime;
     }
 }
+
+/*
+Output:
+
+Enter the String colors: abaac
+Enter size of neededTime array:5
+Enter the element: 1 2 3 4 5
+Require time: 3
+
+Enter the String colors: abc
+Enter size of neededTime array:3
+Enter the element: 1 2 3 
+Require time: 0
+
+Enter the String colors: aabaa
+Enter size of neededTime array:5
+Enter the element: 1 2 3 4 1
+Require time: 2
+
+*/
