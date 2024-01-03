@@ -3,7 +3,7 @@ import java.util.*;
 public class NumberofLaserBeamsInaBank {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the size of array Bank: ");
+        System.out.print("Enter the size of array Bank: ");
         int n=sc.nextInt();
         String[] bank = new String[n];
         System.out.println("Enter the Element as binary string: ");
@@ -35,3 +35,18 @@ public class NumberofLaserBeamsInaBank {
         return res;
     }
 }
+
+/*
+Output:
+
+Enter the size of array Bank: 4
+Enter the Element as binary string:
+011001 000000 010100 001000
+Total number of laser beams: 8
+
+Enter the size of array Bank: 3
+Enter the Element as binary string:
+000 111 000
+Total number of laser beams: 0
+ 
+*/
