@@ -8,7 +8,7 @@ The two devices are located on two different rows: r1 and r2, where r1 < r2.
 For each row i where r1 < i < r2, there are no security devices in the ith row.
 Laser beams are independent, i.e., one beam does not interfere nor join with another.
 
-Return the total number of laser beams in the bank.
+- Return the total number of laser beams in the bank.
 
  
 
