@@ -31,3 +31,13 @@ public class DetermineifStringHalvesAreAlike {
         return count1 == count2;
     }
 }
+
+/*
+
+Enter the String:book
+true
+
+Enter the String:textbook
+false
+
+*/
