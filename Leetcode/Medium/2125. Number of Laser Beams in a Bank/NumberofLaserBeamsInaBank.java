@@ -37,7 +37,7 @@ public class NumberofLaserBeamsInaBank {
 }
 
 /*
-Output:
+OUTPUT:
 
 Enter the size of array Bank: 4
 Enter the Element as binary string:
