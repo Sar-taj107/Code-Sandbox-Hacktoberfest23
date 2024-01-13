@@ -39,4 +39,8 @@ Enter string s: leetcode
 Enter string t: practice
 Minimum number of step to make Anagram: 5
 
+Enter string s: anagram
+Enter string t: mangaar
+Minimum number of step to make Anagram: 0
+
 */
