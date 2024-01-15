@@ -6,8 +6,6 @@ Return the minimum number of steps to make t an anagram of s.
 
 An Anagram of a string is a string that contains the same characters with a different (or the same) ordering.
 
- 
-
 **Example 1:**
 
 **Input:** s = "bab", t = "aba" <br>
