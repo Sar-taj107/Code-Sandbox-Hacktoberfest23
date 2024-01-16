@@ -34,9 +34,9 @@ public class LowerDiagonalMatrix {
             }
         }
     }
-
 }
 /*
+Output:
 
 3
 1 2 3 
