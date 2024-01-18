@@ -1,3 +1,5 @@
+//15th jan 24 shift-1
+//TCS NQT exam Q1
 import java.util.*;
 public class LowerDiagonalMatrix {
     public static void main(String[] args) {
