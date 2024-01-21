@@ -1,3 +1,5 @@
+//15th jan 24 shift-1
+//TCS NQT exam Q1
 import java.util.*;
 public class LowerDiagonalMatrix {
     public static void main(String[] args) {
@@ -43,5 +45,18 @@ Output:
 4 5 6
 7 8 9
 1 0 0 ,4 5 0 ,7 8 9
+
+*/
+
+/*
+input format nxn matrix like n=4
+1  2  3  4
+5  6  7  8
+9  10 11 12
+13 14 15 16
+
+output format value of each row separated by space and after each row separated by "," 
+i.e
+1 2 3 4, 5 6 7 8, 9 10 11 12, 13 14 15 16
 
 */
