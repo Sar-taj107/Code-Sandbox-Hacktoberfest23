@@ -4,7 +4,7 @@ You are given a __0-indexed__ array of strings ```words``` and a character ```x`
 
 Return an array of indices representing the words that contain the character ```x```.
 
-__Note__ that the returned array may be in __any order__.
+- __Note__ that the returned array may be in __any order__.
 
  
 
