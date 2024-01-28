@@ -1,4 +1,3 @@
-import java.util.*;
 /*
  check whether a given string is palindrome or not
  example1 eye     palindrome
@@ -6,6 +5,7 @@ import java.util.*;
  example3 madam     palindrome
 
  */
+import java.util.*;
 public class CheckPalindromeString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
