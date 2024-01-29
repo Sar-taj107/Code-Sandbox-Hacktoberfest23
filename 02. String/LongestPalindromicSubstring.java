@@ -1,4 +1,3 @@
-import java.util.Scanner;
 /*
  brute-force tc=O(n^3)
  expandFromcentre algorith tc= O(n^2)
@@ -10,7 +9,7 @@ output -
         bb
  
  */
-
+import java.util.*;
 public class LongestPalindromicSubstring {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
