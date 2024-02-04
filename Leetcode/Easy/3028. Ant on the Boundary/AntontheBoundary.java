@@ -34,8 +34,8 @@ Enter array size: 3
 Enter the element: 2 3 -5
 Number of time an ant return to the boundary: 1
 
-Enter array size: 3
-Enter the element: 2 3 -5
-Number of time an ant return to the boundary: 1
+Enter array size: 4
+Enter the element: 3 2 -3 -4
+Number of time an ant return to the boundary: 0
 
 */
