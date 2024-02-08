@@ -1,4 +1,3 @@
-import java.util.Scanner;
 /*
  Max Unique Exponent
 You’re given a string where multiple characters are repeated consecutively.
@@ -11,7 +10,7 @@ aabbbbeeeeffggg
 Output:
 a2b4e4f2g3
  */
-
+import java.util.Scanner;
 public class MaxUniqueExponent {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
