@@ -1,6 +1,6 @@
 ## Largest Triangle Area
 
-Given an array of points on the __X-Y__ plane points where ```points[i] = [xi, yi]```, return the area of the largest triangle that can be formed by any three different points. Answers within 10^-5 of the actual answer will be accepted.
+Given an array of points on the __X-Y__ plane points where ```points[i] = [xi, yi]```, return the area of the largest triangle that can be formed by any three different points. Answers within 10<sup>-5</sup> of the actual answer will be accepted.
 
  
 
