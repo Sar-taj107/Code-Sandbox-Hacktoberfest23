@@ -29,7 +29,7 @@ public class IslandPerimeter {
                     if(i>0 && grid[i-1][j]==1)     island--;
                     if(i<n-1 && grid[i+1][j]==1)   island--;
                     if(j>0 && grid[i][j-1]==1)     island--;
-                    if(j<m-1 && grid[i][j+1]==1) island--;
+                    if(j<m-1 && grid[i][j+1]==1)   island--;
                 }
             }
         }
