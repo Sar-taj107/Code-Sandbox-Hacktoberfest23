@@ -42,6 +42,7 @@ public class LeastNumberofUniqueIntegersafterKRemovals {
 
 /*
 Output:
+TC- O(n)
 
 Enter array size: 7
 Enter the element: 4 3 1 1 3 3 2
