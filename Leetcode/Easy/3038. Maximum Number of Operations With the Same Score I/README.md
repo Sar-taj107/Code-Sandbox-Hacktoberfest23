@@ -14,7 +14,7 @@ Return the __maximum__ number of operations possible that satisfy the condition 
 **Example 1:**
 
 **Input:** nums = [3,2,1,4,5] <br>
-**Output:** 2
+**Output:** 2                 <br>
 **Explanation:** We perform the following operations:
 - Delete the first two elements, with score 3 + 2 = 5, nums = [1,4,5].
 - Delete the first two elements, with score 1 + 4 = 5, nums = [5].
@@ -23,7 +23,7 @@ We are unable to perform any more operations as nums contain only 1 element.
 **Example 2:**
 
 **Input:** nums = [3,2,6,1,4] <br>
-**Output:** 1
+**Output:** 1                 <br>
 **Explanation:** We perform the following operations:
 - Delete the first two elements, with score 3 + 2 = 5, nums = [6,1,4].
 We are unable to perform any more operations as the score of the next operation isn't the same as the previous one.
@@ -31,6 +31,6 @@ We are unable to perform any more operations as the score of the next operation 
 
 **Constraints:**
 
-- ```2 <= nums.length <= 100``
+- ```2 <= nums.length <= 100```
 
 - ```1 <= nums[i] <= 1000```
