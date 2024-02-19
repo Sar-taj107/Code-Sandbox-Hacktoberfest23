@@ -21,6 +21,8 @@ public class MaximumNumberofOperationsWiththeSameScoreI {
             int j=i+1;
             if(x==nums[i]+nums[j]){
                 maxOper++;
+            }else{
+                break;
             }
             i++;
         }
@@ -37,6 +39,10 @@ Maximum number of operation: 2
 
 Enter array size: 5
 Enter the Element: 3 2 6 1 4
+Maximum number of operation: 1
+
+Enter array size: 6
+Enter the Element: 4 2 4 1 3 3
 Maximum number of operation: 1
 
 */
