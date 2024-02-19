@@ -26,7 +26,6 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 
 **Constraints:**
 
-``-231 <= n <= 231 - 1``
- 
+-2<sup>31</sup> ≤ n ≤ 2<sup>31</sup> - 1
 
 - __Follow up:__ Could you solve it without loops/recursion?
