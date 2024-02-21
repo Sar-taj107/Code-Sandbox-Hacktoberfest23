@@ -42,4 +42,21 @@ Enter right value: 2147483647
 ans: 1073741824
 
 */
+//--------------------------------------java -----------------------------------
+/*
+Burte - force approach i.e just iterate the whole range from left to right value so this logic is also works but for large input it give
+time limit exceeds TLE in leetcode the last test case. 
+Last Executed Input
+1073741824
+2147483647
 
+//1.approach brute force
+        // int res=0;                                   
+        // for(int i=left; i<right; i++){                
+        //     res = i & (i+1);
+        //     if(res==0){
+        //         break;
+        //     }
+        // }
+        // return res;
+*/
