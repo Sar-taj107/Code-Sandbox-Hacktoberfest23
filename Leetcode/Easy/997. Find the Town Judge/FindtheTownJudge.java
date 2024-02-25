@@ -40,6 +40,7 @@ public class FindtheTownJudge {
 }
 
 /*
+Explanation: 
 we have to just find the person or element who don't trust any one and everyone trust 
 him except itself 
 so here relation define [a,b] that means a trust the b but b not trust on a so if we 
