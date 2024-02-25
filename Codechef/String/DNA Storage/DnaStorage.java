@@ -1,5 +1,5 @@
 //package Codechef.String.DNA Storage;
-
+    
 import java.util.*;
 public class DnaStorage {
     public static void main(String[] args) {
@@ -58,3 +58,4 @@ Enter binary string: 1001
 Encoded sequence: CT
 
 */
+
