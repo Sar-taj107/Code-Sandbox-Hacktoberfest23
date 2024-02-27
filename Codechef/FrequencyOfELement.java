@@ -24,3 +24,27 @@ public class FrequencyOfELement {
 	    }
 	}
 }
+/*
+Output:
+
+Enter array size : 5
+Enter the Element: 2 2 3 3 3
+Frequency of 0 :0
+Frequency of 1 :0
+Frequency of 2 :2
+Frequency of 3 :3
+Frequency of 4 :0
+Frequency of 5 :0
+
+Enter array size : 7
+Enter the Element: 1 1 2 3 5 5 5
+Frequency of 0 :0
+Frequency of 1 :2
+Frequency of 2 :1
+Frequency of 3 :1
+Frequency of 4 :0
+Frequency of 5 :3
+Frequency of 6 :0
+Frequency of 7 :0
+
+*/
