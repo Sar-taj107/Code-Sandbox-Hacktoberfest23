@@ -25,9 +25,9 @@ For each test case, output on a new line, two space-separated integers - Alice's
 
 **Constraints**
 
-1 ≤ T ≤ 1000 <br>
-1≤ N ≤1000  <br>
-Length of ∣S∣ = N S consists only of the characters 'A' and 'B'.
+``1 ≤ T ≤ 1000`` <br>
+``1≤ N ≤1000``  <br>
+Length of ``∣S∣ = N`` S consists only of the characters 'A' and 'B'.
 
 **Sample 1:** <br>
 **Input** <br>
