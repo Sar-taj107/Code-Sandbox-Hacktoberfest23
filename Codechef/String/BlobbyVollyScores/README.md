@@ -41,6 +41,7 @@ BBBB<br>
 ABABB<br>
 5<br>
 BABAB<br>
+
 **Output**
 
 3 0<br>
