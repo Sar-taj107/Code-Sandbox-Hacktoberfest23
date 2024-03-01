@@ -1,4 +1,6 @@
 ## 2864. Maximum Odd Binary Number
+### Click the link below for complete Leetcode solution explanation 👇
+[leetcode solution expnation](https://leetcode.com/problems/maximum-odd-binary-number/solutions/4805738/simple-easy-3-approaches-sorting-reverse-java-inbuilt-methods)
 
 You are given a __binary__ string ``s`` that contains at least one ``'1'``.
 
