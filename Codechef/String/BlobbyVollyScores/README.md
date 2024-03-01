@@ -1,5 +1,5 @@
 ## Blobby Volly Scores
-![problem link:](https://www.codechef.com/practice/course/strings/STRINGS/problems/BLOBBYVOLLEY)
+[problem link:](https://www.codechef.com/practice/course/strings/STRINGS/problems/BLOBBYVOLLEY)
 
 Alice and Bob are playing a game of Blobby Volley. In this game, in each turn, one player is the server and the other player is the receiver. Initially, Alice is the server, and Bob is the receiver.
 
@@ -23,10 +23,11 @@ N turns.
 
 For each test case, output on a new line, two space-separated integers - Alice's final score, and Bob's final score.
 
-Constraints
-1 ≤ T ≤ 1000
-1≤ N ≤1000
-Length of ∣S∣ = N S consists only of the characters 'A' and 'B'.
+**Constraints**
+
+``1 ≤ T ≤ 1000`` <br>
+``1≤ N ≤1000``  <br>
+Length of ``∣S∣ = N`` S consists only of the characters 'A' and 'B'.
 
 **Sample 1:** <br>
 **Input** <br>
@@ -40,6 +41,7 @@ BBBB<br>
 ABABB<br>
 5<br>
 BABAB<br>
+
 **Output**
 
 3 0<br>
