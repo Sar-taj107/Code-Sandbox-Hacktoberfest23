@@ -23,4 +23,4 @@ After sorting, it becomes [0,1,9,16,100].
 - ``nums`` is sorted in non-decreasing order. 
  
 
-__Follow up: Squaring each element and sorting the new array is very trivial, could you find an O(n) solution using a different approach?__
+💡 __Follow up: Squaring each element and sorting the new array is very trivial, could you find an O(n) solution using a different approach?__
