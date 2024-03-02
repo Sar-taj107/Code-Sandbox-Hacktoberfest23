@@ -1,7 +1,8 @@
+### Click the link below for complete Leetcode solution explanation 👇
+[leetcode solution expnation](https://leetcode.com/problems/squares-of-a-sorted-array/solutions/4809990/simple-solution-2-approaches-two-pointer-sorting-beats-100-java/)
+
 ## 977. Squares of a Sorted Array
-
 Given an integer array ``nums`` sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
-
 
 **Example 1:**
 
