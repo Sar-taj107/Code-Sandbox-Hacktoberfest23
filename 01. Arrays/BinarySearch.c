@@ -1,4 +1,4 @@
-// Bianry Search:  //
+//1. Bianry Search:  //
 
 #include<stdio.h>
 struct Array
@@ -25,7 +25,7 @@ int binarySearch(struct Array arr, int key)
     return -1;
 }
 
-// Recursive form
+//2. Recursive form
 int RBinarySearch(struct Array arr, int key, int l, int h)
 {
     int mid = (l+h)/2;
