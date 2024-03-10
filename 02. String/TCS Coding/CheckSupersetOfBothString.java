@@ -1,4 +1,5 @@
 //package TCS Coding;
+//my own approach
 import java.util.*;
 public class CheckSupersetOfBothString {
     public static void main(String[] args) {
@@ -46,6 +47,50 @@ public class CheckSupersetOfBothString {
   }
 }
 
+
+/*
+Output:
+ex:1 
+Enter String P: NET
+Enter String P: CASH
+Enter String P: NCAESTH
+true
+
+ex:2
+Enter String P: BABC
+Enter String P: DEFEE
+Enter String P: BAEBDCFEE
+false
+
+*/
+----------------------------------------******************************------------------------------------
+//approach 2
+import java.util.*;
+public class Main {
+    public static void main(String[] args) {
+      Scanner sc = new Scanner(System.in);
+        System.out.println("Enter String P:");
+        String p = sc.next();
+        System.out.println("Enter String Q:");
+        String q = sc.next();
+        System.out.println("Enter String R:");
+        String r = sc.next();
+        boolean result = isOrderPreserved(p, q, r);
+        System.out.println(result);
+    }
+
+    public static boolean isOrderPreserved(String p, String q, String r) {
+        int pointerP = 0, pointerQ = 0;
+        for (char c : r.toCharArray()) {
+            if (pointerP < p.length() && c == p.charAt(pointerP)) {
+                pointerP++;
+            } else if (pointerQ < q.length() && c == q.charAt(pointerQ)) {
+                pointerQ++;
+            }
+        }
+        return pointerP == p.length() && pointerQ == q.length();
+  }
+}
 
 /*
 Output:
