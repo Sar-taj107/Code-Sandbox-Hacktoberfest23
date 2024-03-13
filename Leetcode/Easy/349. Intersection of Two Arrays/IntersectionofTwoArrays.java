@@ -10,6 +10,7 @@ Output: [9,4]
 Explanation: [4,9] is also accepted. 
 */
 //1.Approach using HashSet
+// TC - O(n+m)       SC- O(min(n,m))    
 import java.util.*;
 public class IntersectionofTwoArrays {
     public static void main(String[] args) {
@@ -57,6 +58,7 @@ public class IntersectionofTwoArrays {
         return res;
     }
 }
+
 /*
 Output:
 
@@ -74,4 +76,68 @@ Result array: 4 9
 
 
 */
+------------------------------------------------****************************---------------------------------------------------
 
+//2.Approach using Two- pointer concept
+// Time complexity: O(nlog(n) + mlog(m))   , Space complexity: O(min(n,m))
+class Solution {
+    public int[] intersection(int[] nums1, int[] nums2) {
+        
+        Set<Integer> st = new HashSet<>();
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
+        int l1=nums1.length;
+        int l2=nums2.length;
+        int i=0, j=0;
+        while(i<l1 && j<l2){
+            if(nums1[i] == nums2[j]){
+                st.add(nums1[i]);
+                i++;
+                j++;
+            }else if(nums1[i]< nums2[j]){
+                i++;
+            }else{
+                j++;
+            }
+        }
+        int idx=0;
+        int[] ans = new int[st.size()];
+        for(int num: st){
+            ans[idx++] = num;
+        }
+        return ans;
+    }
+}
+
+--------------------------------------------*************************************------------------------------------
+//3.Approach apply Binary search 
+//Time complexity: O((n + m) log n),   Space complexity: *O(min(n, m))
+class Solution {
+    public int[] intersection(int[] nums1, int[] nums2) {
+        
+        Set<Integer> st = new HashSet<>();
+        Arrays.sort(nums1);
+        int l1=nums1.length;
+        int l2=nums2.length;
+        for(int num : nums2){
+            int left =0, right=l1-1;
+            while(left<=right){
+                int mid = left+(right - left)/2;
+                if(nums1[mid] == num){
+                    st.add(nums1[mid]);
+                    break;
+                }else if(nums1[mid] > num){
+                    right = mid-1;
+                }else{
+                    left = mid+1;
+                }
+            }
+        }
+        int i=0;
+        int[] ans = new int[st.size()];
+        for(int num : st){
+            ans[i++] = num;
+        }
+        return ans;
+    }
+}

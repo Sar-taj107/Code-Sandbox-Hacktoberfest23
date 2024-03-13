@@ -1,5 +1,5 @@
+//write a program to find the index of target element in an array 
 import java.util.Scanner;
-
 public class ElementAtIndex {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -38,5 +38,13 @@ Enter the element:
 Enter the element to be Search:
 9 
 Element found at index:3
+
+Enter the size of array:
+3
+Enter the element:
+5 -6 1
+Enter the element to be Search:
+-6
+Element found at index:1
 
  */

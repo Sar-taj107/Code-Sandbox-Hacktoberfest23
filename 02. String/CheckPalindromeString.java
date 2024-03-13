@@ -30,18 +30,18 @@ public class CheckPalindromeString {
 }
 
 //2. second approach using stringbuilder()
-//you can use this one it also working
+//you can use this one it also works same
 
-// static void checkPalidroStr(String s){
+static void checkPalidroStr(String s){
 
-//         int n=s.length();
-//         StringBuilder sb = new StringBuilder();
-//         for(int i=n-1; i>=0; i--){
-//             sb.append(s.charAt(i));
-//         }
-//         if(s.equals(sb.toString())){
-//             System.out.println("Palindrome String");
-//         }else{
-//             System.out.println("Not a Palindrome String");
-//         }
-//     }
+        int n=s.length();
+        StringBuilder sb = new StringBuilder();
+        for(int i=n-1; i>=0; i--){
+            sb.append(s.charAt(i));
+        }
+        if(s.equals(sb.toString())){
+            System.out.println("Palindrome String");
+        }else{
+            System.out.println("Not a Palindrome String");
+        }
+    }
