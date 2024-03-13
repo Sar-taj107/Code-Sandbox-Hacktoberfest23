@@ -1,5 +1,9 @@
 ## 2485. Find the Pivot Integer
 
+### Click the link below for complete Explanation 👇
+
+[Leetcode Solution](https://leetcode.com/problems/find-the-pivot-integer/solutions/4870283/easy-to-understand-2-approaches-basic-math-prefixsum/)
+
 Given a positive integer n, find the pivot integer x such that:
 
 The sum of all elements between 1 and x inclusively equals the sum of all elements between x and n inclusively.
