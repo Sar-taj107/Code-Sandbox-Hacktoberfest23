@@ -1,9 +1,14 @@
 ## 2485. Find the Pivot Integer
 
-Given a positive integer n, find the pivot integer x such that:
+### Click the link below for complete Explanation 👇
+
+[Leetcode Solution](https://leetcode.com/problems/find-the-pivot-integer/solutions/4870283/easy-to-understand-2-approaches-basic-math-prefixsum/)
+
+Given a positive integer __n__, find the pivot integer __x__ such that:
 
 The sum of all elements between 1 and x inclusively equals the sum of all elements between x and n inclusively.
-*Return the pivot integer x. If no such integer exists, return -1. It is guaranteed that there will be at most one pivot index for the given input.*
+
+*Return the __pivot integer x__. If no such integer exists, return -1. It is guaranteed that there will be at most one pivot index for the given input.*
 
  
 
