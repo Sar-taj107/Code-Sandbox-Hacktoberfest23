@@ -34,4 +34,4 @@ Given the __head__ of a singly linked list, reverse the list, and return *the re
 - ``-5000 <= Node.val <= 5000``
  
 
-__Follow up__💡: A linked list can be reversed either iteratively or recursively. Could you implement both?
+__Follow up__ 💡: A linked list can be reversed either iteratively or recursively. Could you implement both?
