@@ -1,3 +1,4 @@
+//1. recursive approach
 class Solution {
     public ListNode reverseList(ListNode head) {
         return reverse(head, null);
