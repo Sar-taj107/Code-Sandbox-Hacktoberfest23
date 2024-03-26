@@ -6,7 +6,7 @@
 
 Given an integer array nums of length n where all the integers of ``nums`` are in the range ``[1, n]`` and each integer appears __once__ or __twice__, return an array of all the integers that appears twice.
 
-You must write an algorithm that runs in ``O(n)`` time and uses only constant extra space.
+#### 💡You must write an algorithm that runs in ``O(n)`` time and uses only constant ``extra space``.
 
  
 
