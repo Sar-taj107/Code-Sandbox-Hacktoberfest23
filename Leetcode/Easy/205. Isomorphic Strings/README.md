@@ -29,7 +29,7 @@ All occurrences of a character must be replaced with another character while pre
 
 **Constraints:**
 
-- ``1 <= s.length <= 5 * 104``
+- ``1 <= s.length <= 5 * 10^4``
 
 - ``t.length == s.length``
 
