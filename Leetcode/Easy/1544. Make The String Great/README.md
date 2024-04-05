@@ -2,7 +2,7 @@
 
 ### Click the link below for complete Explanation👇
 
-[Leetcode]()
+[Leetcode](https://leetcode.com/problems/make-the-string-great/solutions/4977608/java-solution-stack-2-approaches-stringbuilder/)
 
 Given a string s of lower and upper case English letters.
 
