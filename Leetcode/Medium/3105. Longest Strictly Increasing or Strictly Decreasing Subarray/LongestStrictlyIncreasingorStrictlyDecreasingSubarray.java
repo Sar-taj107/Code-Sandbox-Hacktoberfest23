@@ -1,4 +1,5 @@
 //package Medium.2958. Length of Longest Subarray With at Most K Frequency;
+// Tc - O(n) sc - O(1)
 import java.util.*;
 public class LongestStrictlyIncreasingorStrictlyDecreasingSubarray {
     public static void main(String[] args) {
