@@ -2,7 +2,7 @@
 
 ### CLick the link below for complete Explanation 👇
 
-[Leetcode]()
+[Leetcode](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/1224754564/)
 
 Given a string s of ``'(' ``, ``')'`` and lowercase English characters.
 
