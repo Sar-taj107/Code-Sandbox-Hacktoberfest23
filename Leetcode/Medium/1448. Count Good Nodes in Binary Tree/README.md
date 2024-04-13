@@ -1,4 +1,4 @@
-# Problem #1448 ([Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Binary Tree, Breadth-First Search, Depth-First Search, Tree)
+## Problem #1448 ([Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Binary Tree, Breadth-First Search, Depth-First Search, Tree)
 
 ## Problem
 
@@ -54,7 +54,7 @@ Given a binary tree `root`, a *node X* in the tree is named **good** if in the p
     root = [1]
 <br/>
 
-**Output:*
+**Output:**
 
     1
 <br/>
