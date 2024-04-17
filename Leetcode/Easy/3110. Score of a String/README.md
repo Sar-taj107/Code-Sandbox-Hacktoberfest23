@@ -10,7 +10,7 @@ Return the __score__ of ``s``.
 
 **Example 1:**
 
-**Input:** s = "hello"
+**Input:** s = "hello" <br>
 **Output:** 13
 
 **Explanation:**
@@ -19,7 +19,7 @@ The ASCII values of the characters in s are: 'h' = 104, 'e' = 101, 'l' = 108, 'o
 
 **Example 2:**
 
-**Input:** s = "zaz"
+**Input:** s = "zaz" <br>
 **Output:** 50
 
 **Explanation:**
