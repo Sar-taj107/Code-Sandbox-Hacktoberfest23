@@ -1,13 +1,12 @@
 /*
  brute-force tc=O(n^3)
  expandFromcentre algorith tc= O(n^2)
-
- input- babad
+ 
+input- babad
         cbbd
 output - 
         aba or bab      // coz both correct size 3 
         bb
- 
  */
 import java.util.*;
 public class LongestPalindromicSubstring {
