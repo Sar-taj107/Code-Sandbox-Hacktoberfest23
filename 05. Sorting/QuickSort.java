@@ -1,10 +1,9 @@
-import java.util.*;
 /*
     sc- O(1)  no extra space taken
     tc-  O(n^2) worst case
     tc- O(nlogn) average case 
-
  */
+import java.util.*;
 public class QuickSort {
      public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
