@@ -1,11 +1,9 @@
-import java.util.LinkedList;
 import java.util.*;
 public class Graph {
      private int Vertices;   // No. of vertices 
    
     // adjacency list declaration
     private LinkedList<Integer> adj_list[]; 
-   
     // graph Constructor: to initialize adjacency lists as per no of vertices 
     Graph(int v) { 
         Vertices = v; 
@@ -13,12 +11,10 @@ public class Graph {
         for (int i=0; i<v; ++i) 
             adj_list[i] = new LinkedList(); 
     } 
-   
     //add an edge to the graph 
     void addEdge(int v, int w) { 
         adj_list[v].add(w);  // Add w to v's list. 
     } 
-   
     // helper function for DFS technique
     void DFS_helper(int v,boolean visited[]) { 
         // current node is visited 
@@ -34,8 +30,6 @@ public class Graph {
                 DFS_helper(n, visited); 
         } 
     } 
-   
-    
 void DFS(int v) { 
         //initially none of the vertices are visited 
         boolean visited[] = new boolean[Vertices]; 
