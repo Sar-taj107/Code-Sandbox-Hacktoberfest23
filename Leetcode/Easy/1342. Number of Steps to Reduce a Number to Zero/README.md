@@ -1,4 +1,4 @@
-# PROBLEM #1342 ([Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Math, Bit Manipulation)
+## PROBLEM #1342 ([Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Math, Bit Manipulation)
 
 Given an integer num, return the number of steps to reduce it to zero.
 

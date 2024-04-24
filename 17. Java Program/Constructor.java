@@ -1,6 +1,4 @@
 public class Constructor {
-    
-    
         public static void main(String[] args){
             Construct taj = new Construct(7,8,9);
             taj.print();
@@ -16,7 +14,6 @@ public class Constructor {
         void print(){
             System.out.println(x+" "+y+" "+z);
         }
-        
     }
     
 
