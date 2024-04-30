@@ -2,7 +2,7 @@
 
 ### Click the link below for complete Explanation 👇✅
 
-[Leetcode]()
+[Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/solutions/5088480/simple-solution-bit-manipulation-easy-explanation/)
 
 You are given a ``0-indexed`` integer array ``nums`` and a positive integer ``k``.
 
