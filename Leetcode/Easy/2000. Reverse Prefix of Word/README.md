@@ -2,7 +2,7 @@
 
 ### Click the link below for complete Explanation 👇✅
 
-[Leetcode]()
+[Leetcode](https://leetcode.com/problems/reverse-prefix-of-word/solutions/5096024/easy-to-understad-string-two-pointer-2-approaches-java-solution/)
 
 Given a ``0-indexed`` string __word__ and a character ``ch``, reverse the segment of word that starts at index 0 and ends at the index of the first occurrence of ``ch`` (inclusive). If the character ch does not exist in word, do nothing.
 
@@ -34,7 +34,7 @@ Reverse the part of word from 0 to 3 (inclusive), the resulting string is "zxyxx
 You should not do any reverse operation, the resulting string is "abcd".
  
 
-**onstraints:**
+**Constraints:**
 
 - ``1 <= word.length <= 250``
 
