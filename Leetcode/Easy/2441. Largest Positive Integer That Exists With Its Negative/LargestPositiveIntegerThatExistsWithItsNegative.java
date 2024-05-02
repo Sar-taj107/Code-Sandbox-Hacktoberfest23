@@ -1,4 +1,7 @@
 //package Easy.2441. Largest Positive Integer That Exists With Its Negative;
+//Complexity
+//without sorting Tc - O(n) , Sc - O(n)   //1 approach
+// with sorting  Tc - O(nlogn) , Sc - O(n)  //2 approach
 import java.util.*;
 public class LargestPositiveIntegerThatExistsWithItsNegative {
     public static void main(String[] args) {
@@ -13,7 +16,7 @@ public class LargestPositiveIntegerThatExistsWithItsNegative {
         int ans = findMaxK(nums);
         System.out.println("Max element: "+ans);
     }
-    public static int findMaxK(int[] nums){
+    public static int findMaxK(int[] nums){     //1 Approach
       
       int n=nums.length;
       Set<Integer> st = new HashSet<>();
@@ -32,6 +35,28 @@ public class LargestPositiveIntegerThatExistsWithItsNegative {
       return maxEle;
     }
 }  
+
+//2 Approach 
+class Solution {
+    public int findMaxK(int[] nums) {
+        
+       int n=nums.length;
+       Set<Integer> st = new HashSet<>();
+       for(int i=0; i<n; i++){
+        if(nums[i]<0){
+            st.add(nums[i]);
+        }
+       }
+       Arrays.sort(nums);
+       for(int i=n-1; i>=0; i--){
+        int x= -nums[i];
+        if(st.contains(x)){
+            return nums[i];
+        }
+       }
+       return -1;
+    }
+}
 
 /*
 Output:
