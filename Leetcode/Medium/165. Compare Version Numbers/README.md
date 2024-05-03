@@ -31,8 +31,8 @@ Return the following:
 
 **Example 3:**
 
-**Input:** version1 = "0.1", version2 = "1.1"
-**Output:** -1
+**Input:** version1 = "0.1", version2 = "1.1" <br>
+**Output:** -1 <br>
 **Explanation:** version1's revision 0 is "0", while version2's revision 0 is "1". 0 < 1, so version1 < version2.
  
 
