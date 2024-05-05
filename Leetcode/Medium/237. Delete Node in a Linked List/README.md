@@ -2,7 +2,7 @@
 
 ### Click the link below for Solution 👇✅
 
-[Leetocode]()
+[Leetocode](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=daily-question&envId=2024-05-05)
 
 There is a ``singly-linked`` list ``head`` and we want to delete a ``node`` node in it.
 
