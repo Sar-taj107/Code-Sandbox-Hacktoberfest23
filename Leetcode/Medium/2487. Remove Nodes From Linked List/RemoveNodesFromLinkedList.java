@@ -1,5 +1,6 @@
 //package Medium.2487. Remove Nodes From Linked List;
-
+//TC - O(n) 
+//SC - O(n)
 import java.util.Scanner;
 
 class ListNode {
@@ -68,6 +69,5 @@ class RemoveNodesFromLinkedList {
             System.out.print(result.val + " ");
             result = result.next;
         }
-        scanner.close();
     }
 }
