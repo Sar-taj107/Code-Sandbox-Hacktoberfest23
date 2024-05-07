@@ -1,4 +1,5 @@
 //package Medium.2816. Double a Number Represented as a Linked List;
+// Tc - O(n) , Sc- O(1) auxillary space but O(n) for taking system stack so overall sc- O(n);
 import java.util.*;
 class ListNode {
     int val;
