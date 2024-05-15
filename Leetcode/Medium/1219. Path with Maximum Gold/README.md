@@ -2,7 +2,7 @@
 
 ### Click the link below for complete Explanation 👇✅🔥
 
-[Leetcode]()
+[Leetcode](https://leetcode.com/problems/path-with-maximum-gold/solutions/)
 
 In a ``gold`` mine grid of size ``m x n``, each cell in this mine has an integer representing the amount of ``gold`` in that cell, 0 if it is ``empty``.
 
