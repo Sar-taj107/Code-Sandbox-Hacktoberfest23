@@ -2,7 +2,7 @@
 
 ### Click the link below for complete explanation 🔥✅💡
 
-[Leetcode]()
+[Leetcode](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)
 
 You are given the root of a __full binary tree__ with the following properties:
 
