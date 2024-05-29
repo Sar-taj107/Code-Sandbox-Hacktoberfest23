@@ -27,6 +27,6 @@
 
 **Constraints:**
 
-```1 <= s.length <= 104``` 
+```1 <= s.length <= 10^4``` 
 
 ```s[i] is either '0' or '1'.```
