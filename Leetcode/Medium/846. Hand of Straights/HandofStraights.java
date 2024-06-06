@@ -13,6 +13,7 @@ public class HandofStraights {
         int groupSize = sc.nextInt();s
         
         boolean ans = isNStraightHand(hand, groupSize);
+        System.out.println(ans);
     }
     public static boolean check(int[] hand, int groupSize, int i){
           int n=hand.length;

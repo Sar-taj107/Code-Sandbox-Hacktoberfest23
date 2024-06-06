@@ -7,7 +7,7 @@ public class LongestPalindrome {
 
         String s = sc.next();
         int ans = longestPalindrome(s);
-        System.err.println(ans);
+        System.out.println(ans);
     }
     public static int longestPalindrome(String s) {
         Map<Character,Integer> freq = new HashMap<>();
@@ -33,16 +33,3 @@ public class LongestPalindrome {
     }
 }
 
-<<<<<<< HEAD
-=======
-/*
-Example 1:
-Input: s = "abccccdd"
-Output: 7
-Explanation: One longest palindrome that can be built is "dccaccd", whose length is 7.
-
-Example 2:
-Input: s = "a"
-Output: 1
-*/
->>>>>>> e7ebb4edb9183a9f2500f36336d42c702a399cfb
