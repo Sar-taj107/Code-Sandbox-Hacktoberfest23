@@ -7,7 +7,7 @@ public class LongestPalindrome {
 
         String s = sc.next();
         int ans = longestPalindrome(s);
-        System.err.println(ans);
+        System.out.println(ans);
     }
     public static int longestPalindrome(String s) {
         Map<Character,Integer> freq = new HashMap<>();
@@ -32,3 +32,4 @@ public class LongestPalindrome {
         return len;
     }
 }
+
