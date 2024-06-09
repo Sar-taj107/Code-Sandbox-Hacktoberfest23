@@ -1,4 +1,5 @@
-# Problem #11 ([Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array, Greedy, Two Pointers)
+## Problem 11
+##  ([Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Array, Greedy, Two Pointers)
 
 You are given an integer array height of length `n`. There are `n` vertical lines drawn such that the two endpoints of the **i<sup>th</sup>** line are `(i, 0)` and `(i, height[i])`.
 
