@@ -2,7 +2,7 @@
 
 ### Clcik the link below for complete Explanation ✅👇🔥
 
-[Leetcode Soution]()
+[Leetcode Soution](https://leetcode.com/problems/sort-colors/solutions/5299925/simple-java-solution-counting-sort-two-pointers/)
 
 Given an array ``nums`` with n objects colored ``red``, ``white``, or ``blue``, sort them __in-place__ so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
 
