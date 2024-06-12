@@ -2,7 +2,7 @@
 
 ### Click the link the below for complete Explanation👇🔥✅
 
-[Leetcode Solution]()
+[Leetcode Solution](https://leetcode.com/problems/height-checker/solutions/5290243/easy-to-understand-2-different-approaches-sorting-java-solution/)
 
 A school is trying to take an annual photo of all the students. The students are asked to stand in a single file line in __non-decreasing__ order by height. Let this ordering be represented by the integer array expected where ``expected[i]`` is the expected height of the ith student in line.
 
@@ -21,7 +21,7 @@ Return *the number of indices where ``heights[i] != expected[i]``*.
 **heights:**  [1,1,4,2,1,3] <br>
 **expected:** [1,1,1,2,3,4]
 
-Indices 2, 4, and 5 do not match.
+- Indices 2, 4, and 5 do not match.
 
 **Example 2:**
 
@@ -32,7 +32,7 @@ Indices 2, 4, and 5 do not match.
 **heights:**  [5,1,2,3,4] <br>
 **expected:** [1,2,3,4,5]
 
-All indices do not match.
+- All indices do not match.
 
 **Example 3:**
 
@@ -43,7 +43,7 @@ All indices do not match.
 **heights:**  [1,2,3,4,5] <br>
 **expected:** [1,2,3,4,5]
 
-All indices match.
+- All indices match.
  
 
 **Constraints**:
