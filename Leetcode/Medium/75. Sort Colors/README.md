@@ -24,9 +24,11 @@ You must solve this problem without using the library's sort function.
 
 **Constraints:**
 
-n == nums.length
-1 <= n <= 300
-nums[i] is either 0, 1, or 2.
+- ``n == nums.length``
+  
+- ``1 <= n <= 300``
+  
+- ``nums[i] is either 0, 1, or 2.``
  
 
-- __Follow up__: Could you come up with a one-pass algorithm using only constant extra space?
+- __Follow up__ 💡: Could you come up with a one-pass algorithm using only constant extra space?
