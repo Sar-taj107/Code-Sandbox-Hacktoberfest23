@@ -32,4 +32,4 @@ T_4 = 1 + 1 + 2 = 4
 
 - ``0 <= n <= 37``
 
-- The answer is guaranteed to fit within a 32-bit integer, ie. answer <= 2^31 - 1
+- The answer is guaranteed to fit within a 32-bit integer, ie. ``answer <= 2^31 - 1``
