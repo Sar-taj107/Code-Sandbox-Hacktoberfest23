@@ -2,7 +2,7 @@
 
 ### Click the link below for complete Explanation 🔥✅👇
 
-[leetcode Solution]()
+[leetcode Solution](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/solutions/5309087/easy-java-solution-sorting-brute-force/)
 
 There are n ``seats`` and n ``students`` in a room. You are given an array seats of length n, where ``seats[i]`` is the position of the ``ith`` seat. You are also given the array students of length n, where ``students[j]`` is the position of the ``jth`` student.
 
