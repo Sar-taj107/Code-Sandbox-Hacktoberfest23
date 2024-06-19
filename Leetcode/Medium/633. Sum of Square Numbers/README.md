@@ -18,4 +18,4 @@ Given a non-negative integer c, decide whether there're two integers a and b suc
 
 **Constraints:**
 
--`` 0 <= c <= 231 - 1``
+- `` 0 <= c <= 2^31 - 1``
