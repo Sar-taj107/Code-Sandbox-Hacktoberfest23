@@ -1,4 +1,3 @@
-import java.util.*;
 /*
 Ques:49
 Group Anagrams
@@ -8,6 +7,7 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 typically using all the original letters exactly once.
 
  */
+import java.util.*;
 public class GroupAnagram {
     public static void main(String[] args) {
         
