@@ -40,4 +40,4 @@ Return an array answer of size ``n`` where answer[i] is the ``rank`` of the ith 
 
 - ``0 <= score[i] <= 10^6``
 
-- ``All the values in score are __unique__.``
+- All the values in score are __unique__.
