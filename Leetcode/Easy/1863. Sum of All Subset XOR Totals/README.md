@@ -17,7 +17,7 @@ An ``array`` a is a subset of an array b if a can be obtained from b by deleting
  
 
 **Example 1:**
-**
+
 **Input:** nums = [1,3] <br>
 **Output:** 6 <br>
 **Explanation:** The 4 subsets of [1,3] are:
@@ -29,7 +29,7 @@ An ``array`` a is a subset of an array b if a can be obtained from b by deleting
 0 + 1 + 3 + 2 = 6
 
 **Example 2:**
-**
+
 **Input:** nums = [5,1,6] <br>
 **Output:** 28 <br>
 **Explanation:** The 8 subsets of [5,1,6] are:
