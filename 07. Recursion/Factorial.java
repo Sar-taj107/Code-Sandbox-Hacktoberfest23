@@ -22,8 +22,11 @@ public class Factorial {
 
 /*
  
-Enter a number:
+Enter a number: 
 5
 Factorial of 5:120
+Enter a number: 
+3
+Factorial of 3:6
 
  */
