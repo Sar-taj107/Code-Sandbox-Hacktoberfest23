@@ -21,7 +21,7 @@ Return the *minimum number of operations needed to go back to the main folder af
 
 **Example 1:**
 
-[](https://assets.leetcode.com/uploads/2020/09/09/sample_22_1957.png)
+![](https://assets.leetcode.com/uploads/2020/09/09/sample_22_1957.png)
 
 **Input:** logs = ["d1/","d2/","../","d21/","./"] <br>
 **Output:** 2 <br>
@@ -29,7 +29,7 @@ Return the *minimum number of operations needed to go back to the main folder af
 
 **Example 2:**
 
-[](https://assets.leetcode.com/uploads/2020/09/09/sample_22_1957.png)
+![](https://assets.leetcode.com/uploads/2020/09/09/sample_22_1957.png)
 
 **Input:** logs = ["d1/","d2/","./","d3/","../","d31/"] <br>
 **Output:** 3
