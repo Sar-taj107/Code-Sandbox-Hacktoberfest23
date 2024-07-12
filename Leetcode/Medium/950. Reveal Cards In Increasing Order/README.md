@@ -51,4 +51,4 @@ Since all the cards revealed are in increasing order, the answer is correct.
 
 - ``1 <= deck[i] <= 10^6``
 
-- ``All the values of deck are __unique__.``
+- All the values of deck are __unique__.
