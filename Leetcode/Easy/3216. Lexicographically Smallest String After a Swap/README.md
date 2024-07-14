@@ -2,7 +2,7 @@
 
 ### Click the link below for complete Explanation 👇💡🔥
 
-[Leetcode Solution]()
+[Leetcode Solution](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/solutions/5476713/easy-to-understand-beats-java-solution/)
 
 Given a string ``s`` containing only digits, return the 
 lexicographically smallest string
