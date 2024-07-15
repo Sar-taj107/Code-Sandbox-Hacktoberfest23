@@ -31,10 +31,10 @@ So nums is rearranged to [1,-1].
 
 **Constraints:**
 
-- ```2 <= nums.length <= 2 * 105```
+- ```2 <= nums.length <= 2 * 10^5```
 
 - ```nums.length is even```
 
-- ```1 <= |nums[i]| <= 105```
+- ```1 <= |nums[i]| <= 10^5```
 
 - ```nums``` consists of __equal__ number of positive and negative integers.
