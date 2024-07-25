@@ -1,4 +1,4 @@
-import java.util.*;
+
 /*
  
 An autobiographical number is a number N such that the first digit of N represents the 
@@ -12,6 +12,7 @@ Number of twos in 1210 = 1 = third digit of the Number
 Number of threes in 1210 = 0 = fourth digit of the Number
 
  */
+import java.util.*;
 public class AutobiographicalNumber {
     public static void main(String[] args) {
 	   Scanner scanner=new Scanner(System.in);
