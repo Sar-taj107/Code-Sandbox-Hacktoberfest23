@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 /*
 ques:print  regular rhombus 
@@ -9,7 +8,7 @@ ques:print  regular rhombus
                           *****
                          *****
  */
-
+import java.util.Scanner;
 public class Rhombus {
     public static void main(String[] args) {
         System.out.print("Enter the number of row:");
