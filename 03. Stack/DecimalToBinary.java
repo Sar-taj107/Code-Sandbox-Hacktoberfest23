@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class DecimalToBinary {
     private static int top = -1;

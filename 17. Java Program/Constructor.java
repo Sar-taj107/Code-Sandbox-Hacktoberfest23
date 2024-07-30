@@ -1,3 +1,4 @@
+import java.util.*;
 public class Constructor {
         public static void main(String[] args){
             Construct taj = new Construct(7,8,9);

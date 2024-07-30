@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 /*
 reverse half pyramid rotate with 180
@@ -11,7 +10,7 @@ reverse half pyramid rotate with 180
  */
 
 
-
+import java.util.Scanner;
 public class Invertedpyramid {
     public static void main(String[] args) {
         System.out.println("Enter the number of row:");
