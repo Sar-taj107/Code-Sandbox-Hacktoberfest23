@@ -1,4 +1,4 @@
-package Codechef.String.BlobbyVollyScores;
+//package Codechef.String.BlobbyVollyScores;
 import java.util.*;
 public class BlobbyVollyScore {
     public static void main(String[] args) {
