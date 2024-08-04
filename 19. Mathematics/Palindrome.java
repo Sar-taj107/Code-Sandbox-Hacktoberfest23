@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 //Both string and number 
 /* 
 public class Palindrome {
