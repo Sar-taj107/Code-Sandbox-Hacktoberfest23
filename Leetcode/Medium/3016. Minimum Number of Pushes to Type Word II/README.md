@@ -24,13 +24,13 @@ An example mapping of letters to keys on a telephone keypad is given below. Note
 
 **Input:** word = "abcde" <br>
 **Output:** 5 <br>
-**Explanation:** The remapped keypad given in the image provides the minimum cost.
-"a" -> one push on key 2
-"b" -> one push on key 3
-"c" -> one push on key 4
-"d" -> one push on key 5
-"e" -> one push on key 6
-Total cost is 1 + 1 + 1 + 1 + 1 = 5.
+**Explanation:** The remapped keypad given in the image provides the minimum cost. <br>
+"a" -> one push on key 2 <br>
+"b" -> one push on key 3 <br>
+"c" -> one push on key 4 <br>
+"d" -> one push on key 5 <br>
+"e" -> one push on key 6 <br>
+Total cost is 1 + 1 + 1 + 1 + 1 = 5. <br>
 It can be shown that no other mapping can provide a lower cost.
 
 **Example 2:**
@@ -39,12 +39,12 @@ It can be shown that no other mapping can provide a lower cost.
 
 **Input:** word = "xyzxyzxyzxyz" <br>
 **Output:** 12 <br>
-**Explanation:** The remapped keypad given in the image provides the minimum cost.
-"x" -> one push on key 2
-"y" -> one push on key 3
-"z" -> one push on key 4
-Total cost is 1 * 4 + 1 * 4 + 1 * 4 = 12
-It can be shown that no other mapping can provide a lower cost.
+**Explanation:** The remapped keypad given in the image provides the minimum cost. <br>
+"x" -> one push on key 2 <br>
+"y" -> one push on key 3 <br>
+"z" -> one push on key 4 <br>
+Total cost is 1 * 4 + 1 * 4 + 1 * 4 = 12 <br>
+It can be shown that no other mapping can provide a lower cost. <br>
 Note that the key 9 is not mapped to any letter: it is not necessary to map letters to every key, but to map all the letters.
 
 **Example 3:**
@@ -53,17 +53,17 @@ Note that the key 9 is not mapped to any letter: it is not necessary to map lett
 
 **Input:** word = "aabbccddeeffgghhiiiiii"<br>
 **Output:** 24  <br>
-**Explanation:** The remapped keypad given in the image provides the minimum cost.
-"a" -> one push on key 2
-"b" -> one push on key 3
-"c" -> one push on key 4
-"d" -> one push on key 5
-"e" -> one push on key 6
-"f" -> one push on key 7
-"g" -> one push on key 8
-"h" -> two pushes on key 9
-"i" -> one push on key 9
-Total cost is 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 + 2 * 2 + 6 * 1 = 24.
+**Explanation:** The remapped keypad given in the image provides the minimum cost. 
+"a" -> one push on key 2 <br>
+"b" -> one push on key 3 <br>
+"c" -> one push on key 4 <br>
+"d" -> one push on key 5 <br>
+"e" -> one push on key 6 <br>
+"f" -> one push on key 7 <br>
+"g" -> one push on key 8 <br>
+"h" -> two pushes on key 9 <br>
+"i" -> one push on key 9 <br>
+Total cost is 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 + 2 * 2 + 6 * 1 = 24.<br>
 It can be shown that no other mapping can provide a lower cost.
 
 **Constraints:**
