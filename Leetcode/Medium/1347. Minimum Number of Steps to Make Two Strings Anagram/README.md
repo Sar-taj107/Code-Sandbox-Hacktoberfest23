@@ -32,7 +32,7 @@ An Anagram of a string is a string that contains the same characters with a diff
 **Constraints:**
 
 - ```1 <= s.length <= 5 * 10^4```
-- 
+  
 - ```s.length == t.length```
-- 
+ 
 - ```s and t consist of lowercase English letters only.```
