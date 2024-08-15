@@ -36,10 +36,10 @@ Explanation: 3 will win the first 10 rounds consecutively.
 
 Constraints:
 
-2 <= arr.length <= 105
-1 <= arr[i] <= 106
+2 <= arr.length <= 10^5
+1 <= arr[i] <= 10^6
 arr contains distinct integers.
-1 <= k <= 109
+1 <= k <= 10^9
 
 */
 import java.util.*;
