@@ -1,8 +1,9 @@
-import java.util.*;
+
 /*
 write a program that takes a string as input and replaces only the alphabetic characters, 
 changing uppercase letters to lowercase and vice versa, while keeping all other characters unchanged?
 */
+import java.util.*;
 public class ReplaceLowerToUppercase {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
