@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 /*
  ques:output
@@ -7,6 +6,7 @@ import java.util.Scanner;
         1 2 3 
         1 2 3 4
  */
+import java.util.Scanner;
 public class HalfNumPyramid {
     public static void main(String[] args) {
         System.out.print("Enter the number of row:");
