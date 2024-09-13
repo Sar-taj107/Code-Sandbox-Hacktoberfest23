@@ -26,8 +26,9 @@ public class FindCountOfOneZero {
 }
 
 /*
-Output:
+Input:
 Enter the binary string: 01101
+Output:
 Number of one: 3
 Number of zero: 2
 
