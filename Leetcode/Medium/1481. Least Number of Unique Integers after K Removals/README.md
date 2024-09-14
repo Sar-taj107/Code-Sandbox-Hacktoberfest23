@@ -1,5 +1,9 @@
 ## Least Number of Unique Integers after K Removals
 
+### Click the link below for complete Explanation 👇🔥💡
+
+[Leetcode Solution]()
+
 Given an array of integers ```arr``` and an integer ```k```. Find the least number of unique integers after removing __exactly__ ```k``` elements.
 
  

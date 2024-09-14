@@ -1,6 +1,4 @@
 import java.util.*;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 
 public class ModulusOfMatrix {
     // Function to read array elements and calculate the determinant
