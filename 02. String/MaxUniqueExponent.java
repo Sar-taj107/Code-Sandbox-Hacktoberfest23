@@ -1,5 +1,6 @@
 /*
- Max Unique Exponent
+
+Max Unique Exponent
 You’re given a string where multiple characters are repeated consecutively.
 You’re supposed to reduce the size of this string using mathematical 
 logic given as in the example below :
@@ -9,8 +10,9 @@ aabbbbeeeeffggg
 
 Output:
 a2b4e4f2g3
+
  */
-import java.util.Scanner;
+import java.util.*;
 public class MaxUniqueExponent {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
