@@ -1,5 +1,4 @@
-// Java program to add elements
-// to a Queue
+// Java program to add elements to a Queue
  
 import java.util.*;
 public class AddElement {
