@@ -28,7 +28,6 @@ Output:
 
 Input: str = i.like.this.program.very.much
 Output: much.very.program.this.like.i
-Explanation: After reversing the whole string(not individual words),
-the input string becomes much.very.program.this.like.i
+Explanation: After reversing the whole string(not individual words),the input string becomes much.very.program.this.like.i
 
 */
