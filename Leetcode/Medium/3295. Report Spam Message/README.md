@@ -2,6 +2,8 @@
 
 ### Click the link below for complete Explanation 👇🔥💡
 
+[Leetcode Solution](https://leetcode.com/problems/report-spam-message/solutions/5821100/easy-to-understand-simple-approach-hashset-java-solution/)
+
 You are given an array of strings ``message`` and an array of strings ``bannedWords``.
 
 An array of words is considered __spam__ if there are at least two words in it that exactly match any word in bannedWords.
