@@ -19,8 +19,8 @@ Note: The last character has not been '.'.
 **Output:** mno.pqr
 
 **Explanation:** After reversing the whole string , the input string becomes mno.pqr <br>
-Expected Time Complexity: O(|str|)<br>
-Expected Auxiliary Space: O(|str|)
+Expected Time Complexity: ``O(|str|)``<br>
+Expected Auxiliary Space: ``O(|str|)``
 
 **Constraints:**
 
