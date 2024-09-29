@@ -1,10 +1,11 @@
 /*
+
 Write a Java program to find the sum of all circular prime numbers within a specified range.
 A circular prime is defined as a prime number for which every rotation of its digits results also a
 prime number. Implement functions to calculate the sum, check if a number is a circular prime,
 
-Enter starting value:100
-Enter  ending Value:150
+Enter starting value: 100
+Enter  ending Value: 150
 Sum of all circular prime number: 244
 Explanation:
 In between 100 to 150 they all are prime  101, 103, 107, 109, 113, 127, 131, 137, 139, and 149 but only 
