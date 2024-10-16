@@ -34,12 +34,8 @@ public class ElementFindUsiRecu {
             return taj+1;
         }
         }
-       }
-
-       
+    }
 }
-
-
 class Node{
     int data;
     Node next;
@@ -47,6 +43,4 @@ class Node{
         data = a;
         next = null;
     }
-
-
 }
