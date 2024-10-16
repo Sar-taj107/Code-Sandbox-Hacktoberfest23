@@ -1,4 +1,3 @@
-import java.util.*;
 
 /*
   The DSatur, or Saturation Degree, algorithm picks an uncolored vertex from a graph that has the biggest number of adjacent
@@ -9,7 +8,9 @@ import java.util.*;
   where n is the total number of vertices. None of the vertices that are adjacent to each other can have the same color.
   This process continues until all of the vertices are colored in. This algorithm addresses the graph coloring problem and
   it finds the most efficient coloring scheme for bipartite graphs.
+  
 */
+import java.util.*;
 class dSatur_Algorithm {    
 
     //Need to keep track of the inputted adjacencyMatrix.

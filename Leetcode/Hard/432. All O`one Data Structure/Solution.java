@@ -1,4 +1,5 @@
-/**
+/*
+
 432. All O`one Data Structure
 Solved
 Hard
@@ -12,7 +13,8 @@ dec(String key) Decrements the count of the string key by 1. If the count of key
 getMaxKey() Returns one of the keys with the maximal count. If no element exists, return an empty string "".
 getMinKey() Returns one of the keys with the minimum count. If no element exists, return an empty string "".
 Note that each function must run in O(1) average time complexity.
-  **/
+
+ */
 public class Node {
     String key;
     int count;
@@ -104,11 +106,16 @@ class AllODataStructre432 {
         return head.next == tail ? "" : head.next.key;
     }
 }
-/**
+
+
+/*
+
  * Your AllOne object will be instantiated and called as such:
  * AllOne obj = new AllOne();
  * obj.inc(key);
  * obj.dec(key);
  * String param_3 = obj.getMaxKey();
  * String param_4 = obj.getMinKey();
+
+
  */

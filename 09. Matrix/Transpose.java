@@ -40,6 +40,7 @@ public class Transpose {
 }
 
 /*
+Output: 
  
 Enter total rows and columns: 
 3
