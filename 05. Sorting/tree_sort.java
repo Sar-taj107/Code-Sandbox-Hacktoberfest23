@@ -1,6 +1,5 @@
 class GFG 
 { 
-
 	// Class containing left and 
 	// right child of current 
 	// node and key value 
@@ -15,7 +14,6 @@ class GFG
 			left = right = null; 
 		} 
 	} 
-
 	// Root of BST 
 	Node root; 
 
@@ -31,7 +29,6 @@ class GFG
 	{ 
 		root = insertRec(root, key); 
 	} 
-	
 	/* A recursive function to 
 	insert a new key in BST */
 	Node insertRec(Node root, int key) 
@@ -84,5 +81,4 @@ class GFG
 		tree.treeins(arr); 
 		tree.inorderRec(tree.root); 
 	} 
-} 
-
+}
