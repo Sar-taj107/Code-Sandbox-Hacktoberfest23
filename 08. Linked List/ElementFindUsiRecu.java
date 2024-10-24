@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 public class ElementFindUsiRecu {
     public static void main(String[] args){
         Node head = new Node(3);
@@ -35,11 +35,7 @@ public class ElementFindUsiRecu {
         }
         }
        }
-
-       
 }
-
-
 class Node{
     int data;
     Node next;
@@ -47,6 +43,4 @@ class Node{
         data = a;
         next = null;
     }
-
-
 }
