@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 /*
 ques: Butter fly pattern
@@ -12,7 +11,7 @@ ques: Butter fly pattern
                         * *         * *
                         *             *
  */
-
+import java.util.*;
 public class ButterFly {
     public static void main(String[] args){
         System.out.print("Enter the number of row:");
