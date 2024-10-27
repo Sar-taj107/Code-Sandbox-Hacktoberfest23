@@ -18,9 +18,9 @@ public class FindElement {
         Node current = head; 
         while(current!=null){
             count++;
-           // System.out.println(head.data+" ");
+           // System.out.println(head.data+" ");\
+
             
-        
         if(current.data==x){
             return count;
         } 
