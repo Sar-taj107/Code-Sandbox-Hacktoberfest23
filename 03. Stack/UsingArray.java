@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class UsingArray {
     public static void main(String[] args){
         MyStack s = new MyStack(4);
@@ -53,7 +52,6 @@ int size(){
 boolean isEmpty(){
     return top==-1;
 }
-
 }
     
 
