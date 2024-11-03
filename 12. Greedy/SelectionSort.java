@@ -32,7 +32,8 @@ public class SelectionSort {
 }
 
 /*
- 
+Output:
+
 Sorted Array in Ascending Order: 
 [2, 10, 12, 15, 20]
 
