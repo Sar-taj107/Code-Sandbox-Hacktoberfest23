@@ -27,7 +27,8 @@ public class TwoDArray {
 }
 
 /*
- 
+Output:
+
 Enter the number of rows:
 3
 Enter the number of cols:
