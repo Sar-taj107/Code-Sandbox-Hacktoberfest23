@@ -2,9 +2,10 @@
 // Using Priority Queue
 
 // Importing utility classes
-import java.util.*;
 
 // Main class DPQ
+
+import java.util.*;
 public class Dijkstra {
 
 	// Member variables of this class
