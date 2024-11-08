@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class ReverseString {
     public static void main(String[] args) {
@@ -26,3 +26,13 @@ public class ReverseString {
         return reversed.toString();
     }
 }
+
+/*
+
+Enter the string here: 10
+Reversed String without using function
+yrots edoc
+Reversed String using function
+yrots edoc
+
+*/
