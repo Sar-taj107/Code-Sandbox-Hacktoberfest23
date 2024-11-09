@@ -66,6 +66,7 @@ public class DiagonalOfMatrix {
 }
 
 /*
+Output:
 
 Enter the row size: 4
 Enter the col size: 4
