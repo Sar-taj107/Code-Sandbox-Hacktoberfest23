@@ -13,3 +13,13 @@ public class OddEven {
         }
     }
 }
+
+/*
+
+Output:
+Enter the number: 5
+5 is odd number
+Enter the number: 12
+12 is odd number
+
+*/
