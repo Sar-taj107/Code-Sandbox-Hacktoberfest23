@@ -1,4 +1,4 @@
-import java.util.*;
+
 //Both string and number 
 /* 
 public class Palindrome {
@@ -23,6 +23,7 @@ public class Palindrome {
 }
 
 */
+import java.util.*;
 public class Palindrome{
     public static void main(String[] args){
         int n,r,temp;
