@@ -29,7 +29,8 @@ public class ElementAtTwoD {
 }
 
 /*
- 
+Output:
+
 Enter the rows:
 3
 Enter the cols:
