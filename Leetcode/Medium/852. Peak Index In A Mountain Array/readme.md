@@ -34,6 +34,6 @@ Output: `1`
 
 ## Constraints
 
-- `arr.length` is between 3 and 105.
-- `0 <= arr[i] <= 106`
+- `arr.length` is between 3 and 10^5.
+- `0 <= arr[i] <= 10^6`
 - `arr` is guaranteed to be a mountain array.
