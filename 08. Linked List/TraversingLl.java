@@ -1,3 +1,4 @@
+import java.util.*;
 public class TraversingLl {
     public static void main(String[] args) {
         Node head = new Node(2);
