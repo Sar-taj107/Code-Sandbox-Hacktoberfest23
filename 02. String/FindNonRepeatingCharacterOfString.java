@@ -24,6 +24,8 @@ public class FindNonRepeatingCharacterOfString {
 }
 
 /*
+Output:
+
 Enter the String: google
 Non repeatig Character: e l
 
