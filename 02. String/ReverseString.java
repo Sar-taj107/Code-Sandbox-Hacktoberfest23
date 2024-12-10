@@ -28,6 +28,7 @@ public class ReverseString {
 }
 
 /*
+Output:
 
 Enter the string here: 10
 Reversed String without using function
