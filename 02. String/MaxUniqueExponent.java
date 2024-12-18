@@ -39,3 +39,11 @@ public class MaxUniqueExponent {
         System.out.println(sb.toString());
     }
 }
+
+/*
+ Input :
+aabbbbeeeeffggg
+
+Output:
+a2b4e4f2g3   
+*/
