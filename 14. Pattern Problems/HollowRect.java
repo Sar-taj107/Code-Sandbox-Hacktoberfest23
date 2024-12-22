@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 /*
                    question like 
@@ -9,7 +9,7 @@ import java.util.Scanner;
                    *  *
                    ****
  */
-
+import java.util.*;
 public class HollowRect {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
