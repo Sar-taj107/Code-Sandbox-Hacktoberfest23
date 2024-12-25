@@ -1,6 +1,6 @@
 
 /*
- ques:output
+ ques:Increasing number triangle
         1
         1 2
         1 2 3 
