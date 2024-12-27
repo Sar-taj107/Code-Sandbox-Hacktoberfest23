@@ -32,4 +32,8 @@ Output:
 Number of one: 3
 Number of zero: 2
 
+Enter the binary string: 101111
+Output:
+Number of one: 5
+Number of zero: 0
 */
