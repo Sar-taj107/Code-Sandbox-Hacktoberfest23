@@ -1,9 +1,11 @@
-// Day 80
-// https://codeforces.com/problemset/problem/1397/A
-// 1397 A. Juggling Letters
+/*
+ Day 80
+ https://codeforces.com/problemset/problem/1397/A
+ 1397 A. Juggling Letters
+*/
+
 
 import java.util.*;
-
 public class jugglingLettersCF {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
