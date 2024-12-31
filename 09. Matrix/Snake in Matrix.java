@@ -1,6 +1,4 @@
-import java.util.Arrays;
-import java.util.List;
-
+import java.util.*;
 class Solution {
     public int finalPositionOfSnake(int n, List<String> commands) {
         int i = 0, j = 0, c = 0;
