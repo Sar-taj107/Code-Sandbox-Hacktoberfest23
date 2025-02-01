@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class ReverseString {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -28,6 +27,7 @@ public class ReverseString {
 }
 
 /*
+
 Output:
 
 Enter the string here: 10
